@@ -2,8 +2,8 @@
 
 Works in termux and linux
 
-cd CcGen
+1-cd CcGen
 
-python2 ccgen2k19.py
+2-python2 ccgen2k19.py
 
-Enjoy
+3-Enjoy
